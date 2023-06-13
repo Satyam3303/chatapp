@@ -1,0 +1,28 @@
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    color:aliceblue;
+    background-color: black;
+}
+
+
+.sign-out button{
+    background-color: rgb(2, 2, 2);
+    color: aliceblue;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 25px;
+    margin: 20px;
+}
+
+.room button{
+    background-color: rgb(2, 2, 2);
+    color: aliceblue;
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 25px;
+    margin: 20px;
+}

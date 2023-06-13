@@ -8,7 +8,8 @@ import {
   where,
   orderBy,
 } from "firebase/firestore";
-import { auth, db } from "../firebase-config";
+import './chat.css';
+import { auth, db } from "../../firebase-config";
 
 export const Chat = (props) => {
   const { room } = props;
